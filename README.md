@@ -1,5 +1,5 @@
-# Diabetes_PredictionAPP
-I made a diabetes prediction app with AI!!!
-
-# Video Explanation 
-https://www.youtube.com/watch?v=xNPaeuSvngE
+Project Machine Learning Tenatng Diabetes
+Nama Kelompok:
+1. Dandy Islami Fikri
+2. Nadia Nisrina
+3. Zafirah Aulia Putri
